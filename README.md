@@ -7,5 +7,3 @@
 
  # Future update plan
    Add social media feed
-
-   Saransh sam
