@@ -1,5 +1,4 @@
-var feedList = [];
-var current;
+
 $( document ).ready(function() {
 
     $(".btn").click(function(event){
